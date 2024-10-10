@@ -36,3 +36,7 @@ head{
 .custom-font{ 
     font-family: 'Times New Roman', Times, serif;
 }
+
+#header{
+    text-transform: uppercase;
+}
