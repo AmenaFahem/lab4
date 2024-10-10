@@ -19,3 +19,7 @@ head{
 .h1-h6{
     text-decoration: underline dashed;
 }
+
+.bold-text{
+    font-weight: bold;
+}
