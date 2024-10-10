@@ -2,7 +2,7 @@ head{
     color: white; background-color: blue;
 }
 .container{
-    background-color: gray;
+    background-color: gray; color: red;
 }
 .highlight{
     color: green;
@@ -10,4 +10,8 @@ head{
 
 .main-content{
     background-color: yellow;
+}
+
+#id1{
+    text-align: center;
 }
